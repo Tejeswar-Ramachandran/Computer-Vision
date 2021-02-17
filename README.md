@@ -1,5 +1,5 @@
 # Computer-Vision
-This repo consists of simple Computer Vision &amp; Open CV Projects
+This repository consists of simple Computer Vision &amp; Open CV Projects
 
 Languages used : Python
 
